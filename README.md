@@ -10,6 +10,8 @@ There are many algorithms for finding prime numbers, however this finds the most
 
 - Move on to 5 and eliminate all other multiples of 5 etc...
 
+- leftover numbers are prime
+
 ![Sieve_of_Eratosthenes_animation](https://user-images.githubusercontent.com/59797227/105047827-d26d9f00-5a38-11eb-8242-3ca2cbfda342.gif)
 
 Kudos to the Creator of the Gif SKopp!

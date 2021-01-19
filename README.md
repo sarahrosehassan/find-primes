@@ -4,7 +4,7 @@ This Java program searches for the 0 - 30 000th prime number in less than one mi
 There are many simple algorithms for finding prime numbers, however, this finds the most efficient algorithm through implementing the "Sieve of Eratosthenes"
 
 # What is a Prime Number?
-Prime numbers only have 2 factors. Factors perfectly divide a number without a remainder.
+Prime numbers only have 2 factors 1 and the number itself. These factors perfectly divide a number without a remainder.
 
 
 # Sieve of Eratosthenes

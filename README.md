@@ -1,5 +1,5 @@
 # find-primes
-This Java program searches for the 0 - 30 000th prime number in less than one minute.
+This program searches for the 0 - 30 000th prime number in less than one minute.
 
 There are many simple algorithms for finding the kth prime number, however, many of them do not complete the task under one minute. Through researching and studying various algorithms, implementing the "Sieve of Eratosthenes" swiftly finds the prime numbers.
 

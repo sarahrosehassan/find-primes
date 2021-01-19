@@ -3,7 +3,7 @@ This Java program searches for the 0 - 30 000th prime number in less than one mi
 
 There are many simple algorithms for finding prime numbers, however, this finds the most efficient algorithm through implementing the "Sieve of Eratosthenes"
 
-# Is the number Prime?
+# What is a Prime Number?
 Prime numbers only have 2 factors
 
 

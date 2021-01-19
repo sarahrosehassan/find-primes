@@ -1,5 +1,5 @@
 # find-primes
-This Java program searches for the 0 - 50 000th in less than one minute.
+This Java program searches for the 0 - 50 000th prime number in less than one minute.
 
 There are many simple algorithms for finding prime numbers, however, this finds the most efficient algorithm through implementing the "Sieve of Eratosthenes"
 

@@ -3,6 +3,10 @@ This Java program searches for the 0 - 30 000th prime number in less than one mi
 
 There are many simple algorithms for finding prime numbers, however, this finds the most efficient algorithm through implementing the "Sieve of Eratosthenes"
 
+# Is the number Prime?
+Prime numbers only have 2 factors
+
+
 # Sieve of Eratosthenes
 - Start a the prime number 2 and eliminate all other multiples of 2
 

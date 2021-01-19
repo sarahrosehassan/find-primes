@@ -1,7 +1,7 @@
 # find-primes
 This program searches for the 0 - 30 000th prime number in less than one minute.
 
-Implementing the "Sieve of Eratosthenes" swiftly finds the prime numbers within the time constraint/
+Implementing the "Sieve of Eratosthenes" swiftly finds the prime numbers within the time constraint.
 
 # What is a Prime Number?
 Prime numbers only have 2 factors: 1 and the number itself. Factors perfectly divide a number without any remainder.

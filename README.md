@@ -1,3 +1,4 @@
+# Finding the Prime Numbers
 This program searches for the 0 - 30 000th prime number in less than one minute.
 
 Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers within the time constraint.
@@ -13,7 +14,7 @@ Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers wit
 
 Kudos to the Creator of the Gif SKopp!
 
-# Additional Program Requirements
+# Find the Prime Factors of an Integer
 - Check if integer n is a prime number
 - return the kth element from the infinite sequence of all prime numbers
 - return the prime factors of the integer n in list form

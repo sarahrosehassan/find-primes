@@ -4,13 +4,8 @@ This program searches for the 0 - 30 000th prime number in less than one minute.
 Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers within the time constraint.
 
 # Methods
-public static boolean isPrime (int n)
 - Checks if integer n is a prime number, 
-
-public static int kthPrime (int k) 
 - returns the kth element from the infinique sequence of all prime numbers using the Sieve of Eratosthenes algorithm.
-
-public static List<Integer> factorize (int n)
 - returns the prime factors of the integer n in list form
 
 # Sieve of Eratosthenes

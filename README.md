@@ -34,7 +34,7 @@ Algorithm to find all the prime factors of an integer n:
 
 If the integer is even, list all occurences of 2 that divide the integer. The number of ocurrences is determined by the number of times the integer can be divided by 2.
 
-If the integer is odd, list all occurence of odd numbers that divide the integer starting with 3.
+If the integer is odd, list all occurence of odd prime numbers that divide the integer starting with 3. The integer is repeatedly divided.
 
 When the integer cannot be divided anymore and a prime number is left, list that prime number.
 

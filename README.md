@@ -1,5 +1,4 @@
-# A Study of Prime Numbers
-The goals of this project are to:
+# The Goals of This Study of Prime Numbers
 1. establish whether a number is prime
 2. return the kth element from the infinite sequence of prime numbers
 3. return the prime factors of a certain integer

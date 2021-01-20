@@ -1,5 +1,6 @@
 # Prime Numbers
-This program studies prime numbers through determining prime numbers
+This project studies prime numbers through finding algorithms to determine the following:
+- 
 
 # Finding The nth Prime Number
 The method kthPrime searches for the 1st - 30 000th prime number in less than one minute from the infinite sequence of prime numbers.

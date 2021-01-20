@@ -1,7 +1,7 @@
 # find-primes
 This program searches for the 0 - 30 000th prime number in less than one minute.
 
-Implementing the "Sieve of Eratosthenes" swiftly finds the prime numbers within the time constraint.
+Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers within the time constraint.
 
 # Sieve of Eratosthenes
 - Start a the prime number 2 and eliminate all other multiples of 2

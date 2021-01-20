@@ -30,7 +30,5 @@ Kudos to the Creator of the Gif SKopp!
 # Finding The Prime Factors of an Integer
 The returned list of the method needs to contain all the prime factors in ascending sorted order. 
 
-To make the program run faster, I will use memor space and store the sequence of prime numbers that I already generated.
-
 # Time Complexity and Caching
 

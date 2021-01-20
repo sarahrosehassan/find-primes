@@ -31,8 +31,6 @@ Kudos to the Creator of the Gif SKopp!
 The returned list of the method needs to contain all the prime factors in ascending sorted order. This list must include the factors the exact number of times it appears in its product. For example, if n = 220 [2, 2, 5, 11] is returned.
 
 Algorithm:
-- Eliminate all even composite numbers, numbers divisible by 2
-- Eliminate all odd composite numbers by finding numbers divisible by the lowest odd number that is leftover
-- 
-
-
+- List all occurences of all even numbers that divide the integer
+- List all occurence of odd numbers that divide the integer
+- List the number itself

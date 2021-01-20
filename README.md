@@ -4,9 +4,9 @@ This program searches for the 0 - 30 000th prime number in less than one minute.
 Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers within the time constraint.
 
 # Program Requirements
-- Checks if integer n is a prime number, 
-- returns the kth element from the infinite sequence of all prime numbers
-- returns the prime factors of the integer n in list form
+- Check if integer n is a prime number
+- return the kth element from the infinite sequence of all prime numbers
+- return the prime factors of the integer n in list form
 
 # Sieve of Eratosthenes
 - Start a the prime number 2 and eliminate all other multiples of 2

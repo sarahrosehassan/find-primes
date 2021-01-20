@@ -32,7 +32,7 @@ The returned list of the method needs to contain all the prime factors in ascend
 
 Algorithm:
 - Eliminate all even composite numbers, numbers divisible by 2
-- Eliminate all odd composite numbers,
+- Eliminate all odd composite numbers by finding numbers divisible by the lowest odd number that is leftover
 - 
 
 

@@ -1,12 +1,7 @@
-# find-primes
+# Main Goal of Program
 This program searches for the 0 - 30 000th prime number in less than one minute.
 
 Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers within the time constraint.
-
-# Program Requirements
-- Check if integer n is a prime number
-- return the kth element from the infinite sequence of all prime numbers
-- return the prime factors of the integer n in list form
 
 # Sieve of Eratosthenes
 - Start a the prime number 2 and eliminate all other multiples of 2
@@ -17,5 +12,9 @@ Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers wit
 
 ![Sieve_of_Eratosthenes_animation](https://user-images.githubusercontent.com/59797227/105047827-d26d9f00-5a38-11eb-8242-3ca2cbfda342.gif)
 
-
 Kudos to the Creator of the Gif SKopp!
+
+# Additional Program Requirements
+- Check if integer n is a prime number
+- return the kth element from the infinite sequence of all prime numbers
+- return the prime factors of the integer n in list form

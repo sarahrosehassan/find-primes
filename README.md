@@ -1,5 +1,5 @@
-# Conducting a Study About Prime Numbers
-This project studies prime numbers through finding algorithms to determine the following:
+# A Study About Prime Numbers
+This project studies prime numbers through finding algorithms to determine three requirements:
 - establishing whether a number is prime
 - returning the kth element from the infinite sequence of prime numbers
 - returning the prime factors of a certain integer

@@ -28,7 +28,10 @@ Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers wit
 Kudos to the Creator of the Gif SKopp!
 
 # The Prime Factors of an Integer
-The returned list of the method needs to contain all the prime factors in ascending sorted order. 
+The returned list of the method needs to contain all the prime factors in ascending sorted order. This list must include the factors the exact number of times it appears in its product. For example, if n = 220 [2, 2, 5, 11] is returned.
+
+Eliminate all composite numbers
+
 
 # Time Complexity and Caching
 

@@ -27,14 +27,12 @@ Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers wit
 
 Kudos to the Creator of the Gif SKopp!
 
-# The Prime Factors of an Integer
-The returned list of the method needs to contain all the prime factors in ascending sorted order. This list must include the factors the exact number of times it appears in its product. For example, if n = 220 [2, 2, 5, 11] is returned.
+# Prime Factors of an Integer Algorithm
+The returned list of the method needs to contain all the prime factors in ascending sorted order. For example, if n = 220 [2, 2, 5, 11] is returned.
 
-Algorithm to find all the prime factors of an integer n:
+- If the integer is even, list all occurences of 2 that divide the integer. The number of ocurrences is determined by the number of times the integer can be divided by 2.
 
-If the integer is even, list all occurences of 2 that divide the integer. The number of ocurrences is determined by the number of times the integer can be divided by 2.
+- If the integer is odd, list all occurence of odd prime numbers that divide the integer starting with 3. The integer is repeatedly divided.
 
-If the integer is odd, list all occurence of odd prime numbers that divide the integer starting with 3. The integer is repeatedly divided.
-
-When the integer cannot be divided anymore and a prime number is left, list that prime number.
+- When the integer cannot be divided anymore and a prime number is left, list that prime number.
 

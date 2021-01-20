@@ -32,7 +32,8 @@ The returned list of the method needs to contain all the prime factors in ascend
 
 - If the integer is even, list all occurences of 2 that divide the integer. The number of ocurrences is determined by the number of times the integer can be divided by 2.
 
-- If the integer is odd, list all occurence of odd prime numbers that divide the integer starting with 3
+- If the integer is odd or the even integer has been divided by 2 reaching an odd number:
+list all occurence of odd prime numbers that divide the integer starting with 3
 
 - When the integer cannot be divided anymore and a prime number is left, list that prime number.
 

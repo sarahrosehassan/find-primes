@@ -1,9 +1,9 @@
 # Finding The nth Prime Number
-This program searches for the 1st - 30 000th prime number in less than one minute.
+This program searches for the 1st - 30 000th prime number in less than one minute from the infinite sequence of prime numbers out there.
 
 Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers within the time constraint.
 
-  # Sieve of Eratosthenes
+# Sieve of Eratosthenes
 - Start a the prime number 2 and eliminate all other multiples of 2
 
 - Move on to 3 and elminate all other multiples of 3

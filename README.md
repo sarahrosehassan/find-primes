@@ -1,4 +1,4 @@
-# A Study About Prime Numbers
+# A Study of Prime Numbers
 This project studies prime numbers through finding algorithms to determine three requirements:
 - establishing whether a number is prime
 - returning the kth element from the infinite sequence of prime numbers

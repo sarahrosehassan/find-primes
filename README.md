@@ -27,3 +27,6 @@ Kudos to the Creator of the Gif SKopp!
 
 # Finding The Prime Factors of an Integer
 [WIP]
+
+# Time Complexity and Caching
+

@@ -15,7 +15,7 @@ The method kthPrime searches for the 1st - 30 000th prime number in less than on
 
 Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers within the time constraint.
 
-## Sieve of Eratosthenes
+## Sieve of Eratosthenes Algorithm
 
 - Start a the prime number 2 and eliminate all other multiples of 2, thus eliminating composite numbers
 
@@ -30,8 +30,9 @@ Kudos to the Creator of the Gif SKopp!
 # The Prime Factors of an Integer
 The returned list of the method needs to contain all the prime factors in ascending sorted order. This list must include the factors the exact number of times it appears in its product. For example, if n = 220 [2, 2, 5, 11] is returned.
 
-Eliminate all composite numbers
+Algorithm:
+- Eliminate all even composite numbers, numbers divisible by 2
+- Eliminate all odd composite numbers,
+- 
 
-
-# Time Complexity and Caching
 

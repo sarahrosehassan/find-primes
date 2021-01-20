@@ -1,7 +1,7 @@
 # Goals of this Prime Number Study
-1. establish whether a number is prime
-2. return the kth element from the infinite sequence of prime numbers
-3. return the prime factors of a certain integer
+1. Establish whether a number is prime
+2. Return the kth element from the infinite sequence of prime numbers
+3. Return the prime factors of a certain integer
 
 # What is a Prime Number?
 A prime number has only two factors: one and itself. A factor of a number divides the number perfectly leaving no remainder behind. 

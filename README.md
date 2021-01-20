@@ -30,11 +30,11 @@ Kudos to the Creator of the Gif SKopp!
 # The Prime Factors of an Integer
 The returned list of the method needs to contain all the prime factors in ascending sorted order. This list must include the factors the exact number of times it appears in its product. For example, if n = 220 [2, 2, 5, 11] is returned.
 
-Algorithm to find all the prime factors of an integer:
+Algorithm to find all the prime factors of an integer n:
 
 If the integer is even, list all occurences of 2 that divide the integer. The number of ocurrences is determined by the number of times the integer can be divided by 2.
 
-If the integer is odd, list all occurence of odd numbers that divide the integer starting with 3 and increment until the square root of the number is reached.
+If the integer is odd, list all occurence of odd numbers that divide the integer starting with 3.
 
+When the integer cannot be divided anymore and a prime number is left, list that prime number.
 
-list the number itself if the number is greater than 2

@@ -27,7 +27,7 @@ Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers wit
 
 Kudos to the Creator of the Gif SKopp!
 
-# Finding The Prime Factors of an Integer
+# The Prime Factors of an Integer
 The returned list of the method needs to contain all the prime factors in ascending sorted order. 
 
 # Time Complexity and Caching

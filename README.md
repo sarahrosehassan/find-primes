@@ -1,5 +1,5 @@
 # Finding the Prime Numbers
-This program searches for the 0 - 30 000th prime number in less than one minute.
+This program searches for the 1st - 30 000th prime number in less than one minute.
 
 Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers within the time constraint.
 

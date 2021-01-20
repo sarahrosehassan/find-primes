@@ -15,7 +15,6 @@ Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers wit
 
 - Move on to 5 and eliminate all other multiples of 5 etc...
 
-
 ![Sieve_of_Eratosthenes_animation](https://user-images.githubusercontent.com/59797227/105047827-d26d9f00-5a38-11eb-8242-3ca2cbfda342.gif)
 
 

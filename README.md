@@ -4,7 +4,10 @@
 3. return the prime factors of a certain integer
 
 # What is a Prime Number?
-A prime number has only two factors: one and itself. A factor divides the number perfectly leaving no remainder behind. 
+A prime number has only two factors: one and itself. A factor of a number divides the number perfectly leaving no remainder behind. 
+
+In mathematical terms:
+number % factor = 0 
 
 To determine whether a number is prime, loop through all the numbers starting from 2 up to the square root until a factor is found. If a factor is found, the number is composite because it has factors other than one or itself.
 

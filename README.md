@@ -1,5 +1,8 @@
+# Prime Numbers
+This program studies prime numbers through determining prime numbers
+
 # Finding The nth Prime Number
-This program searches for the 1st - 30 000th prime number in less than one minute from the infinite sequence of prime numbers.
+The method kthPrime searches for the 1st - 30 000th prime number in less than one minute from the infinite sequence of prime numbers.
 
 Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers within the time constraint.
 

@@ -6,8 +6,7 @@
 # What is a Prime Number?
 A prime number has only two factors: one and itself. A factor of a number divides the number perfectly leaving no remainder behind. 
 
-In mathematical terms:
-number % factor = 0 
+In mathematical terms: number % factor = 0 
 
 To determine whether a number is prime, loop through all the numbers starting from 2 up to the square root until a factor is found. If a factor is found, the number is composite because it has factors other than one or itself.
 
@@ -29,7 +28,9 @@ Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers wit
 Kudos to the Creator of the Gif SKopp!
 
 # Finding The Prime Factors of an Integer
-[WIP]
+The returned list of the method needs to contain all the prime factors in ascending sorted order. 
+
+To make the program run faster, I will use memor space and store the sequence of prime numbers that I already generated.
 
 # Time Complexity and Caching
 

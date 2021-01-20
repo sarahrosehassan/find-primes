@@ -1,6 +1,9 @@
 # Prime Numbers
 This project studies prime numbers through finding algorithms to determine the following:
-- 
+- establishing whether a number is prime
+- returning the kth element from the infinite sequence of prime numbers
+- returning the prime factors of a certain integer
+
 
 # Finding The nth Prime Number
 The method kthPrime searches for the 1st - 30 000th prime number in less than one minute from the infinite sequence of prime numbers.

@@ -39,8 +39,7 @@ If the number is not divisible by 3 move on to the next odd prime number until t
 
 ![prime-factorization-calculator](https://user-images.githubusercontent.com/59797227/105271225-21b0ee00-5b65-11eb-83e0-d6bf88bb5f00.gif)
 
-Kudos to the creators of the gifs!
+Kudos to the authors of the gifs!
 
 https://commons.wikimedia.org/wiki/File:Animation_Sieve_of_Eratosth.gif
-
 https://www.dadsworksheets.com/prime-factorization-calculator.html

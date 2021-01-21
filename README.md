@@ -8,8 +8,6 @@ A prime number has only two factors: one and itself. A factor of a number divide
 
 In mathematical terms: number % factor = 0 
 
-To determine whether a number is prime, loop through all the numbers starting from 2 up to the square root until a factor is found. If a factor is found, the number is composite because it has factors other than one or itself.
-
 # Finding The kth Prime Number
 The method kthPrime searches for the 1st - 30 000th prime number in less than one minute from the infinite sequence of prime numbers.
 

@@ -2,6 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 public class Primes{
+    
+    // returns boolean determining whether a positive integer is prime
     public static boolean isPrime(int n){
         if (n < 2) {
             return false;
@@ -15,7 +17,8 @@ public class Primes{
     }
     
     static ArrayList<Integer> primes = new ArrayList<Integer>();
-
+    
+    // creates list of prime numbers
     static void SieveOfEratosthenes()  {  
         int MAX_SIZE = 50_000;
         boolean [] IsPrime = new boolean[MAX_SIZE];  
@@ -42,6 +45,7 @@ public class Primes{
         return primes.get(k);
     }
     
+    // returns list of all prime factors of an integer
     public static List<Integer> factorize(int n) {
     List<Integer> factorsList = new ArrayList<>();
     

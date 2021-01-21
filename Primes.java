@@ -18,7 +18,7 @@ public class Primes{
     
     static ArrayList<Integer> primes = new ArrayList<Integer>();
     
-    // lists of prime numbers up to 50 000
+    // lists prime numbers up to 50 000 using the algorithm "Sieve of Eratosthenes"
     static void SieveOfEratosthenes()  {  
         int MAX_SIZE = 50_000;
         boolean [] IsPrime = new boolean[MAX_SIZE];  

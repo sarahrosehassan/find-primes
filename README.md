@@ -42,4 +42,5 @@ If the number is not divisible by 3 move on to the next odd prime number until t
 Kudos to the authors of the gifs!
 
 https://commons.wikimedia.org/wiki/File:Animation_Sieve_of_Eratosth.gif
+
 https://www.dadsworksheets.com/prime-factorization-calculator.html

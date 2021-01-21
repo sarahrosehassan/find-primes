@@ -27,8 +27,6 @@ Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers wit
 
 ![Sieve_of_Eratosthenes_animation](https://user-images.githubusercontent.com/59797227/105047827-d26d9f00-5a38-11eb-8242-3ca2cbfda342.gif)
 
-Kudos to the Creator of the Gif SKopp!
-
 # Prime Factors of an Integer Algorithm
 The returned list of the method needs to contain all the prime factors in ascending sorted order. For example, if n = 220 [2, 2, 5, 11] is returned.
 
@@ -41,4 +39,6 @@ If the number is not divisible by 3 move on to the next odd prime number until t
 
 ![prime-factorization-calculator](https://user-images.githubusercontent.com/59797227/105271225-21b0ee00-5b65-11eb-83e0-d6bf88bb5f00.gif)
 
-Kudos to the Creator of the Gif
+Kudos to the creators of the gifs!
+https://commons.wikimedia.org/wiki/File:Animation_Sieve_of_Eratosth.gif
+https://www.dadsworksheets.com/prime-factorization-calculator.html

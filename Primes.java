@@ -38,8 +38,9 @@ public class Primes{
         for (int p = 2; p < MAX_SIZE; p++)  
         if (IsPrime[p] == true)  
                 primes.add(p); 
-            }  
+            }
     
+    // returns the kth prime from the list of prime numbers
     public static int kthPrime(int k){
         SieveOfEratosthenes();
         return primes.get(k);

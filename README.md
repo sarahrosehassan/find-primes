@@ -11,8 +11,6 @@ In mathematical terms: number % factor = 0
 # Finding The kth Prime Number
 The method kthPrime searches for the 1st - 30 000th prime number in less than one minute from the infinite sequence of prime numbers (Primes.java goes up to 50 000).
 
-Implementing the "Sieve of Eratosthenes" swiftly finds all the prime numbers within the time constraint.
-
 ## Sieve of Eratosthenes Algorithm
 
 - Start a the prime number 2 and eliminate all other multiples of 2, thus eliminating composite numbers

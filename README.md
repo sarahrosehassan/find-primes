@@ -30,7 +30,7 @@ Kudos to the Creator of the Gif SKopp!
 # Prime Factors of an Integer Algorithm
 The returned list of the method needs to contain all the prime factors in ascending sorted order. For example, if n = 220 [2, 2, 5, 11] is returned.
 
-- If the integer is even, list all occurences of 2 that divide the integer. he integer n is repeatedly divided by 2 and each successful division is listed.
+- If the integer is even, list all occurences of 2 that divide the integer. The integer n is repeatedly divided by 2 and each successful division is listed.
 
 - If the integer is odd or the even integer has been divided into an odd number, n is repeatedly divided by 3 and each successful division is listed.
 If the number is not divisible by 3 move on to the next odd prime number until the square root of the integer n is reached.

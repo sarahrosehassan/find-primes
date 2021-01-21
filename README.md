@@ -37,3 +37,6 @@ If the number is not divisible by 3 move on to the next odd prime number until t
 
 - When the integer cannot be divided anymore and a prime number is left, list that prime number.
 
+![prime-factorization-calculator](https://user-images.githubusercontent.com/59797227/105271225-21b0ee00-5b65-11eb-83e0-d6bf88bb5f00.gif)
+
+Kudos to the Creator of the Gif

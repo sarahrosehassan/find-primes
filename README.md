@@ -1,5 +1,5 @@
 # What is a Prime Number?
-A prime number has only two factors: one and itself. A factor of a number divides the number perfectly leaving no remainder behind. 
+A prime number has only two factors: one and itself. A factor divides the number perfectly leaving no remainder behind. 
 
 In mathematical terms: number % factor = 0 
 

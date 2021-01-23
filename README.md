@@ -19,7 +19,7 @@ The method kthPrime searches for the 1st - 30 000th prime number in less than on
 ![Sieve_of_Eratosthenes_animation](https://user-images.githubusercontent.com/59797227/105047827-d26d9f00-5a38-11eb-8242-3ca2cbfda342.gif)
 
 # Prime Factors of an Integer Algorithm
-The returned list of the method needs to contain all the prime factors in ascending sorted order. For example, if n = 220 [2, 2, 5, 11] is returned.
+The returned list of the method needs to contain all the prime factors in ascending sorted order. For example, if n = 220, [2, 2, 5, 11] is returned.
 
 - If the integer is even, list all occurences of 2 that divide the integer. The integer n is repeatedly divided by 2 and each successful division is listed.
 

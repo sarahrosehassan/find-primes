@@ -10,7 +10,7 @@ The method kthPrime searches for the 1st - 30 000th prime number in less than on
 
 - Start a the prime number 2 and eliminate all other multiples of 2, thus eliminating composite numbers
 
-- Move on to 3 and elminate all other multiples of 3
+- Move on to 3 and eliminate all other multiples of 3
 
 - Move on to 5 and eliminate all other multiples of 5 etc... 
 

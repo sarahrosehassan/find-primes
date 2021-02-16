@@ -23,8 +23,9 @@ The returned list of the method needs to contain all the prime factors in ascend
 
 - If the integer is even, list all occurences of 2 that divide the integer. The integer n is repeatedly divided by 2 and each successful division is listed.
 
-- If the integer is odd or the even integer has been divided into an odd number, n is repeatedly divided by 3 and each successful division is listed.
-If the number is not divisible by 3 move on to the next odd prime number until the square root of the integer n is reached.
+- If the integer is odd, n is repeatedly divided by 3 and each successful division is listed.
+
+- If the number is not divisible by 3 move on to the next odd prime number until the square root of the integer n is reached.
 
 - When the integer cannot be divided anymore and a prime number is left, list that prime number.
 
